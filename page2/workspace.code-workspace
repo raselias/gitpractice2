@@ -1,0 +1,46 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Workspace\\phase1"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Workspace\\apple-html-css-replica"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Workspace\\CommonHtmlTags"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Workspace\\myapplecsshtml"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Workspace\\Puppy-Lovers-Designes"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Workspace\\apple-responsive-replica-html-css-mar-2020"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Workspace\\phase 2"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DOM-Practice-Questions"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Workspace\\DOM-Practice-Questions-with-solution"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Workspace\\jQuery-Practice-Questions"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Workspace\\iphoneCalculator"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Workspace\\my calc"
+	},
+	{
+		"path": "..\\..\\..\\test\\login-form"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "DOM-Practice-Questions"
+  }
+}
